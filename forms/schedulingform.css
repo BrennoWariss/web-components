@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.maindiv{
+    border: 2px solid rgb(105, 103, 103);
+    background-color: rgb(255, 255, 255);
+    border-color: #FAFAFA;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    bottom: 50%;
+
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(14, 0, 0);
+    margin:30px;
+    margin-top: 40px;
+}
+.inputstyle{
+    background-color: rgb(255, 255, 255);
+    width:75%;
+    padding:10px;
+    margin: 10px 60px 10px 60px;
+    border-style: none none solid none;
+    border-bottom-color: #7C6060;
+}
+.inputsubmit{
+    border: none;
+    padding: 20px;
+    width: 75%;
+    background-color: #F7083C;
+    position: relative;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: white;
+}
+#lastinput{
+    margin-bottom: 40px;
+}

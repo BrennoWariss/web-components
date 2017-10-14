@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.maindiv{
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    border-color: #FAFAFA;
+    width: 25%;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    bottom: 50%;
+
+}
+.title{
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    margin:30px;
+    margin-top: 40px;
+}
+.divtitle{
+    
+    width: 75%;
+    margin: 0 auto;
+    height: 30%;
+   position: relative;
+    background-color: #1284CF;
+}
+.inputstyle{
+    background-color: rgb(255, 255, 255);
+    width:75%;
+    padding:10px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-style: none none solid none;
+    border-bottom-color: #7C6060;
+}
+#firstinput{
+    margin-top: 30px;
+}
+.inputsubmit{
+    border: none;
+    padding: 20px;
+    width: 75%;
+    background-color: #1284CF;
+    position: relative;
+    margin-bottom: 40px;
+    font-size: 20px;
+    color: white;
+}
+#lastinput{
+    margin-bottom: 40px;
+}
+.checkbox{
+    
+    font-size: 20px;
+   margin-bottom: 40px;
+}
+#checkbox{
+    width: 1em;
+    height: 1em;
+}

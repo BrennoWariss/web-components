@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+.tabComponent{
+    float: left;
+    width: 33%;
+}
+
+.title{
+    color: blue;
+    width: 50%;
+
+}
+h3{
+    text-align: center;
+}
+#homedecor{
+    background-color:white;
+    color:black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%;
+}
+#homedecor:hover{
+
+background-color: #555;
+}
+
+#Furniture{
+    background-color: white;
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%;
+}
+#Furniture:hover{
+    background-color: #555;
+}
+#Kitchen{
+    background-color: white;
+    color: black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%;
+}
+#Kitchen:hover{
+background-color: #555;
+}
+#Clearence{
+    background-color:white;
+    color:black;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 24%;
+}
+#Clearence:hover{
+    background-color: #555;
+}
+p{
+    color: white;
+}
